@@ -14,5 +14,5 @@
 オリジナルのDeepYeastデータセットは下記参照。
 ```
 - [DeepYeast dataset](http://kodu.ut.ee/~leopoldp/2016_DeepYeast/)
-   Reference : Tanel Pärnamaa, and Leopold Parts, G3 7:1385, 2017
+     (Tanel Pärnamaa, and Leopold Parts, G3 7:1385, 2017)
       
