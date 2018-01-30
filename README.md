@@ -7,8 +7,8 @@
 講習、「ディープラーニングによる出芽酵母蛍光画像の細胞内タンパク質局在の分類」
 のデータ置き場です。
 ```
-＊[DSTEP180126_DY3CL.ipynb](DSTEP180126_DY3CL.ipynb)　：　JupyterNotebook形式のpythonプログラム
-＊[eA10_3CL.mat](eA10_3CL.mat) : DeepYeast(下参照LINK)データから3CLASSESのみ220画像を抽出したデータセット
+- [DSTEP180126_DY3CL.ipynb](DSTEP180126_DY3CL.ipynb)　：　JupyterNotebook形式のpythonプログラム
+- [eA10_3CL.mat](eA10_3CL.mat) : DeepYeast(下参照LINK)データから3CLASSESのみ220画像を抽出したデータセット
 
 
 - [DeepYeast dataset](http://kodu.ut.ee/~leopoldp/2016_DeepYeast/)
