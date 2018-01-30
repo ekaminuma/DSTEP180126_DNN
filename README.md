@@ -8,7 +8,7 @@
 のデータ置き場です。
 ```
 - [DSTEP180126_DY3CL.ipynb](DSTEP180126_DY3CL.ipynb)　：　JupyterNotebook形式のpythonプログラム
-- [eA10_3CL.mat](eA10_3CL.mat) : DeepYeast(下参照LINK)データから3CLASSESのみ220画像を抽出したデータセット
+- eA10_3CL.mat : DeepYeast(下参照LINK)データから3CLASSESのみ220画像を抽出したデータセット
 
 ```
 オリジナルのDeepYeastデータセットは下記参照。
