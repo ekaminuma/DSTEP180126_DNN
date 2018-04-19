@@ -9,6 +9,7 @@
 ```
 - [DSTEP180126_DY3CL.ipynb](DSTEP180126_DY3CL.ipynb)　：　JupyterNotebook形式のpythonプログラム
 - eA10_3CL.mat : DeepYeast(下参照LINK)データから3CLASSESのみ220画像を抽出したデータセット
+- slideshareで公開中の[講習スライド](https://www.slideshare.net/ekaminuma/180126dstep)
 
 ```
 オリジナルのDeepYeastデータセットは下記参照。
